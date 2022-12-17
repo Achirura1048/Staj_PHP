@@ -64,4 +64,3 @@ $context = class_exists( 'WooCommerce', false ) && ( is_cart() || is_checkout() 
 	</div>
 </div>
 <?php get_footer(); ?>
-//server'a ben kurdum ismet abi bu da kanıtı 

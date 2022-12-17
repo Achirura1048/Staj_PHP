@@ -515,4 +515,3 @@ Patterns resources:
 * neve-patterns-22.jpg - https://pxhere.com/el/photo/1545615
 * otter-blocks-img-02.png - https://pxhere.com/en/photo/1416385
 * otter-blocks-img-03.png - https://pxhere.com/en/photo/1175501
-Servera ben attım ismet abi bu da kanıtı bazı dosyaları telefondan yükleyemedim
